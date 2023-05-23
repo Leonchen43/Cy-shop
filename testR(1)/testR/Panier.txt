@@ -1,0 +1,3 @@
+Nom : Fraise
+Prix : 2.00
+Quantite : 1
