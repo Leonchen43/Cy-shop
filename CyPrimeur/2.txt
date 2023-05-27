@@ -1,0 +1,4 @@
+fraise ; 2 ;
+Fraise ; 1 ;
+Fraise ; 2 ;
+Pasteque ; 1 ;
